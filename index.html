@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<h1 style="text-align: center; font-weight: bold;">Periodic Table</h1>
+		<link rel="icon" href="/img/BritannicaLogoSmall.png" type="image/png">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@600&display=swap" rel="stylesheet">
+		<script type="module" crossorigin src="/assets/index-CnC_G08Y.js"></script>
+		<link rel="stylesheet" crossorigin href="/assets/index-Bhba4aXT.css">
+	</head>
+	<body>
+		<div class="banner">
+			<img src="./img/BritannicaLogo.png" alt="Logo" class="logo">
+			<span>Periodic Table</span>
+		</div>
+		  
+		<div id="container"></div>
+
+		<div id="filterMenu" class="filter-menu">
+			<ul>
+				<li class="line"><a href="#">ALL</a></li>
+				<li><a href="#">METALS</a></li>
+				<li><a href="#">METALLOIDS</a></li>
+				<li class="line"><a href="#">NON METALS</a></li>
+				<li class="line"><a href="#">STATES</a></li>
+				<li><a href="#">GROUPS</a></li>
+				<li><a href="#">PERIODS</a></li>
+				<li class="line"><a href="#">ELECTRONIC CONFIGURATION</a></li>
+				<li><a href="#">INTERACTIVITY</a></li>
+			</ul>
+		</div>
+
+		<div id="side-bar" class="side-bar">
+			<span id="close-button">&times;</span>
+			<h2 id="elementName" style="text-align: center; font-weight: bold;"></h2>
+			<div id="elementEC"><img alt='Element Animation' style='width:200px; height:auto;'></div>
+			<div id="elementImage">
+				<img alt='Element Image' style='width:200px; height:auto; display: block; margin: 0 auto;'>
+			  </div>
+			<div class="side-bar-content">
+				<div class="text-container">
+					<p><strong>Symbol:</strong> <span id="elementSymbol"></span></p>
+					<p><strong>Atomic Number:</strong> <span id="elementAtomicNumber"></span></p>
+					<p><strong>Atomic Weight:</strong> <span id="elementAtomicWeight"></span></p>
+					<p><strong>Category:</strong> <span id="elementCategory"></span></p>
+					<p><strong>Group:</strong> <span id="elementGroup"></span></p>
+					<p><strong>Period:</strong> <span id="elementPeriod"></span></p>
+					<p><strong>Electronic Configuration</strong> <span id="elementElectronicConfiguration"></span></p>
+				</div>
+				<div class="description-container">
+					<p><strong>Description:</strong> <span id="elementDescription"></span></p>
+				</div>
+			</div>
+		</div>
+
+		<div id="element-menu"></div>
+	</body>
+</html>
