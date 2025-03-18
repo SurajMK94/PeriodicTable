@@ -12,8 +12,8 @@
       "ElectronicConfiguration":"Atomic number: 1 <br> Number of shells: 1 <br> Electronic configuration: 1s¹.",
       "Category": "Non Metal",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Hydrogen.jpg",
-      "ECGifLink": "/ElementECGif/Hydrogen.gif"
+      "ElementImage":"./ElementImages/Hydrogen.jpg",
+      "ECGifLink": "./ElementECGif/Hydrogen.gif"
     },
     {
       "Symbol": "He",
@@ -27,8 +27,8 @@
       "ElectronicConfiguration":"Atomic number: 2 <br> Number of shells: 1 <br> Electronic configuration: 1s².",
       "Category": "Noble Gas",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Helium.jpg",
-      "ECGifLink": "/ElementECGif/Helium.gif"
+      "ElementImage":"./ElementImages/Helium.jpg",
+      "ECGifLink": "./ElementECGif/Helium.gif"
     },
     {
       "Symbol": "Li",
@@ -42,8 +42,8 @@
       "ElectronicConfiguration":"Atomic number: 3 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Lithium.jpg",
-      "ECGifLink":"/ElementECGif/Lithium.gif"
+      "ElementImage":"./ElementImages/Lithium.jpg",
+      "ECGifLink":"./ElementECGif/Lithium.gif"
     },
     {
       "Symbol": "Be",
@@ -57,8 +57,8 @@
       "ElectronicConfiguration":"Atomic number: 4 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Beryllium.jpg",
-      "ECGifLink":"/ElementECGif/Beryllium.gif"
+      "ElementImage":"./ElementImages/Beryllium.jpg",
+      "ECGifLink":"./ElementECGif/Beryllium.gif"
     },
     {
       "Symbol": "B",
@@ -72,8 +72,8 @@
       "ElectronicConfiguration":"Atomic number: 5 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p¹.",
       "Category": "Metalloid",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Boron.jpg",
-      "ECGifLink":"/ElementECGif/Boron.gif"
+      "ElementImage":"./ElementImages/Boron.jpg",
+      "ECGifLink":"./ElementECGif/Boron.gif"
     },
     {
       "Symbol": "C",
@@ -87,8 +87,8 @@
       "ElectronicConfiguration":"Atomic number: 6 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p².",
       "Category": "Non Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Carbon.jpg",
-      "ECGifLink":"/ElementECGif/Carbon.gif"
+      "ElementImage":"./ElementImages/Carbon.jpg",
+      "ECGifLink":"./ElementECGif/Carbon.gif"
     },
     {
       "Symbol": "N",
@@ -102,8 +102,8 @@
       "ElectronicConfiguration":"Atomic number: 7 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p³.",
       "Category": "Non Metal",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Nitrogen.jpg",
-      "ECGifLink":"/ElementECGif/Nitrogen.gif"
+      "ElementImage":"./ElementImages/Nitrogen.jpg",
+      "ECGifLink":"./ElementECGif/Nitrogen.gif"
     },
     {
       "Symbol": "O",
@@ -117,8 +117,8 @@
       "ElectronicConfiguration":"Atomic number: 8 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p⁴.",
       "Category": "Non Metal",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Oxygen.jpg",
-      "ECGifLink":"/ElementECGif/Oxygen.gif"
+      "ElementImage":"./ElementImages/Oxygen.jpg",
+      "ECGifLink":"./ElementECGif/Oxygen.gif"
     },
     {
       "Symbol": "F",
@@ -132,8 +132,8 @@
       "ElectronicConfiguration":"Atomic number: 9 <br> Number of shells: 2 Electronic configuration: 1s² 2s² 2p⁵.",
       "Category": "Halogen",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Fluorine.jpg",
-      "ECGifLink":"/ElementECGif/Fluorine.gif"
+      "ElementImage":"./ElementImages/Fluorine.jpg",
+      "ECGifLink":"./ElementECGif/Fluorine.gif"
     },
     {
       "Symbol": "Ne",
@@ -147,8 +147,8 @@
       "ElectronicConfiguration":"Atomic number: 10 <br> Number of shells: 2 Electronic configuration: 1s² 2s² 2p⁶.",
       "Category": "Noble Gas",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Neon.jpg",
-      "ECGifLink":"/ElementECGif/Neon.gif"
+      "ElementImage":"./ElementImages/Neon.jpg",
+      "ECGifLink":"./ElementECGif/Neon.gif"
     },
     {
       "Symbol": "Na",
@@ -162,8 +162,8 @@
       "ElectronicConfiguration":"Atomic number: 11 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Sodium.jpg",
-      "ECGifLink":"/ElementECGif/Sodium.gif"
+      "ElementImage":"./ElementImages/Sodium.jpg",
+      "ECGifLink":"./ElementECGif/Sodium.gif"
     },
     {
       "Symbol": "Mg",
@@ -177,8 +177,8 @@
       "ElectronicConfiguration":"Atomic number: 12 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Magnesium.jpg",
-      "ECGifLink":"/ElementECGif/Magnesium.gif"
+      "ElementImage":"./ElementImages/Magnesium.jpg",
+      "ECGifLink":"./ElementECGif/Magnesium.gif"
     },
     {
       "Symbol": "Al",
@@ -192,8 +192,8 @@
       "ElectronicConfiguration":"Atomic number: 13 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p¹.",
       "Category": "Post Transition Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Aluminium.jpg",
-      "ECGifLink":"/ElementECGif/Aluminium.gif"
+      "ElementImage":"./ElementImages/Aluminium.jpg",
+      "ECGifLink":"./ElementECGif/Aluminium.gif"
     },
     {
       "Symbol": "Si",
@@ -207,8 +207,8 @@
       "ElectronicConfiguration":"Atomic number: 14 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p².",
       "Category": "Metalloid",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Silicon.jpg",
-      "ECGifLink":"/ElementECGif/Silicon.gif"
+      "ElementImage":"./ElementImages/Silicon.jpg",
+      "ECGifLink":"./ElementECGif/Silicon.gif"
     },
     {
       "Symbol": "P",
@@ -222,8 +222,8 @@
       "ElectronicConfiguration":"Atomic number: 15 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p³.",
       "Category": "Non Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Phosphorus.jpg",
-      "ECGifLink":"/ElementECGif/Phosphorus.gif"
+      "ElementImage":"./ElementImages/Phosphorus.jpg",
+      "ECGifLink":"./ElementECGif/Phosphorus.gif"
     },
     {
       "Symbol": "S",
@@ -237,8 +237,8 @@
       "ElectronicConfiguration":"Atomic number: 16 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁴.",
       "Category": "Non Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Sulfur.jpg",
-      "ECGifLink":"/ElementECGif/Sulfur.gif"
+      "ElementImage":"./ElementImages/Sulfur.jpg",
+      "ECGifLink":"./ElementECGif/Sulfur.gif"
     },
     {
       "Symbol": "Cl",
@@ -252,7 +252,7 @@
       "ElectronicConfiguration":"Atomic number: 17 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁵.",
       "Category": "Halogen",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Chlorine.jpg",
+      "ElementImage":"./ElementImages/Chlorine.jpg",
       "ECGifLink":""
     },
     {
@@ -267,7 +267,7 @@
       "ElectronicConfiguration":"Atomic number: 18 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶.",
       "Category": "Noble Gas",
       "State": "Gases",
-      "ElementImage":"/ElementImages/Argon.jpg",
+      "ElementImage":"./ElementImages/Argon.jpg",
       "ECGifLink":""
     },
     {
@@ -282,7 +282,7 @@
       "ElectronicConfiguration":"Atomic number: 19 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Potassium.jpg",
+      "ElementImage":"./ElementImages/Potassium.jpg",
       "ECGifLink":""
     },
     {
@@ -297,7 +297,7 @@
       "ElectronicConfiguration":"Atomic number: 20 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
-      "ElementImage":"/ElementImages/Calcium.jpg",
+      "ElementImage":"./ElementImages/Calcium.jpg",
       "ECGifLink":""
     },
     {
