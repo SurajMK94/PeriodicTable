@@ -9,7 +9,7 @@
       "Period": 1,
       "Column": 1,
       "Description":"<h2>Discovery & Word Origin:</h2><p>Discovered by Henry Cavendish in 1766, hydrogen was prepared by reacting metal with acid. The name comes from the Greek words hydro (water) and genes (forming). Antoine Lavoisier named the element based on its ability to form water.</p><h2>Physical Properties:</h2><p>Hydrogen is a colorless, odorless, and tasteless gas at room temperature. It is highly flammable and exists as a diatomic molecule (H₂) under standard conditions. It is also the most abundant element in the universe.</p><h3>Chemical Properties:</h3><ul><li>Reacts with oxygen to form water (H₂O).</li><li>Acts as both a reducing and an oxidizing agent.</li><li>Forms hydrides with many elements.</li><li>Used in the production of ammonia (NH₃).</li></ul>",
-      "ElectronicConfiguration":"Atomic number 1, has 1 shell and 1 electron. Electronic configuration: 1s¹.",
+      "ElectronicConfiguration":"Atomic number: 1 <br> Number of shells: 1 <br> Electronic configuration: 1s¹.",
       "Category": "Non Metal",
       "State": "Gases",
       "ElementImage":"/ElementImages/Hydrogen.jpg",
@@ -24,7 +24,7 @@
       "Period": 1,
       "Column": 18,
       "Description":"<h2>Discovery & Word Origin:</h2><p>First observed by Jules Janssen in 1868 as a bright yellow line in the solar spectrum during a solar eclipse. The name derives from the Greek word helios (sun), as it was discovered in the sun’s spectrum. Joseph Norman Lockyer and Edward Frankland named helium.</p><h2>Physical Properties:</h2><p>Helium is a colorless, odorless, and tasteless gas. It has the lowest boiling point of all elements and is the second most abundant element in the universe. It is extremely light and inert.</p><h3>Chemical Properties:</h3><ul><li>Does not form chemical compounds under normal conditions.</li><li>Extremely stable due to its complete outer electron shell.</li><li>Used in cryogenics and as a shielding gas.</li><li>Essential for MRI machines and scientific research.</li></ul>",
-      "ElectronicConfiguration":"Atomic number 2, has 1 shell and 2 electrons. Electronic configuration: 1s².",
+      "ElectronicConfiguration":"Atomic number: 2 <br> Number of shells: 1 <br> Electronic configuration: 1s².",
       "Category": "Noble Gas",
       "State": "Gases",
       "ElementImage":"/ElementImages/Helium.jpg",
@@ -39,11 +39,11 @@
       "Period": 2,
       "Column": 1,
       "Description":"<h2>Discovery & Word Origin:</h2> <p>Lithium was discovered by Johan August Arfwedson in 1817 while analyzing petalite ore. The name originates from the Greek word Lithos (stone), reflecting its discovery in rock material. Arfwedson identified it as a new element, and it was named based on this origin.</p> <h2>Physical Properties:</h2> <p>Lithium is a soft, silvery-white metal with the lowest density of all solid elements at room temperature. It has a melting point of 180.54°C and is highly reactive with water.</p> <h3>Chemical Properties:</h3> <ul> <li>Readily forms lithium ions (Li⁺).</li> <li>Reacts vigorously with water to form lithium hydroxide (LiOH) and hydrogen gas.</li> <li>Used in rechargeable batteries, such as lithium-ion batteries.</li> <li>Important in psychiatric medications due to its use in certain pharmaceuticals for treating conditions like bipolar disorder.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 3, has 2 shells and 3 electrons. Electronic configuration: 1s² 2s¹.",
+      "ElectronicConfiguration":"Atomic number: 3 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Lithium.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Atomo_litio.gif/640px-Atomo_litio.gif"
+      "ECGifLink":"/ElementECGif/Lithium.gif"
     },
     {
       "Symbol": "Be",
@@ -54,11 +54,11 @@
       "Period": 2,
       "Column": 2,
       "Description":"<h2>Discovery & Word Origin:</h2> <p>Beryllium was discovered by French chemist Nicholas-Louis Vauquelin in 1798, who identified it in the oxide form within beryl and emeralds. The element was independently isolated by Friedrich Wöhler and Antoine Bussy in 1828. The name beryllium is derived from the Greek word beryllos, meaning beryl, the mineral where it was found.</p> <h2>Physical Properties:</h2> <p>Beryllium is a steel-gray metal that is strong, lightweight, and has a high melting point of 1287°C. It remains solid at room temperature and is notable for being one of the lightest metals with this property. Additionally, beryllium is transparent to X-rays.</p> <h3>Chemical Properties:</h3> <ul> <li>Forms strong covalent bonds due to its small atomic size.</li> <li>Resistant to oxidation at room temperature due to a protective oxide layer.</li> <li>Used extensively in aerospace alloys because of its strength-to-weight ratio and thermal stability.</li> <li>Toxic if inhaled as dust or fumes; handling requires proper safety precautions.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 4, has 2 shells and 4 electrons. Electronic configuration: 1s² 2s².",
+      "ElectronicConfiguration":"Atomic number: 4 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Beryllium.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%C3%81tomo_Berilio.gif/640px-%C3%81tomo_Berilio.gif"
+      "ECGifLink":"/ElementECGif/Beryllium.gif"
     },
     {
       "Symbol": "B",
@@ -69,11 +69,11 @@
       "Period": 2,
       "Column": 13,
       "Description":"<h2>Discovery & Word Origin:</h2> <p>Boron was first isolated in 1808 by French chemists Joseph Louis Gay-Lussac and Louis Jacques Thénard, who produced impure boron. Sir Humphry Davy also independently isolated boron around the same time. The name boron originates from the Arabic word *buraq* and Persian *burah*, which refer to borax, a mineral from which it was derived[1][3][4].</p> <h2>Physical Properties:</h2> <p>Boron can appear as a black-brown amorphous solid or red crystals. It has a high melting point of approximately 2076°C, is hard and wear-resistant, but acts as a poor conductor of electricity at room temperature[7].</p> <h3>Chemical Properties:</h3> <ul> <li>Forms strong covalent bonds due to its small atomic size.</li> <li>Used in various applications such as fiber optics and ceramics due to its hardness.</li> <li>An essential micronutrient for plant growth, playing roles in cell wall formation and carbohydrate metabolism[2].</li> <li>Forms many complex hydrides with other elements.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 5, has 2 shells and 5 electrons. Electronic configuration: 1s² 2s² 2p¹.",
+      "ElectronicConfiguration":"Atomic number: 5 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p¹.",
       "Category": "Metalloid",
       "State": "Solids",
       "ElementImage":"/ElementImages/Boron.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Elemento_quinto.gif/640px-Elemento_quinto.gif"
+      "ECGifLink":"/ElementECGif/Boron.gif"
     },
     {
       "Symbol": "C",
@@ -84,11 +84,11 @@
       "Period": 2,
       "Column": 14,
       "Description":"<h2>Discovery:</h2> <p>Carbon has been known to humans since prehistoric times in the forms of charcoal and diamonds. The earliest civilizations used these materials extensively, with charcoal being a common product of fire and diamonds known for their hardness and beauty.</p> <h2>Word Origin:</h2> <p>The name carbon comes from the Latin word *carbo*, meaning charcoal. Antoine Lavoisier, a French chemist, officially recognized carbon as an element in 1789.</p> <h2>Physical Properties:</h2> <p>Carbon exists in multiple allotropes, including diamond and graphite. Diamond is extremely hard and acts as an electrical insulator, while graphite is soft and an excellent conductor of electricity. Graphite has a high melting point of approximately 3550°C under standard conditions.</p> <h3>Chemical Properties:</h3> <ul> <li.Forms four covalent bonds due to its tetravalency.</li> <li>Serves as the basis for organic chemistry due to its ability to form long chains and complex rings.</li> <li>An essential element for all known life forms on Earth.</li> <li>Able to form millions of different compounds with other elements due to its versatility in bonding arrangements.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 6, has 2 shells and 6 electrons. Electronic configuration: 1s² 2s² 2p².",
+      "ElectronicConfiguration":"Atomic number: 6 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p².",
       "Category": "Non Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Carbon.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Nitr%C3%B3geno.gif?20211213043809"
+      "ECGifLink":"/ElementECGif/Carbon.gif"
     },
     {
       "Symbol": "N",
@@ -99,11 +99,11 @@
       "Period": 2,
       "Column": 15,
       "Description":"<h2>Discovery:</h2> <p>Nitrogen was discovered by Scottish chemist Daniel Rutherford in 1772, who identified it as a distinct component of air. Rutherford's discovery involved removing oxygen and carbon dioxide from air to isolate the remaining gas, which he called noxious air. Concurrently, Carl Wilhelm Scheele, Henry Cavendish, and Joseph Priestley were also studying this gas around the same time[1][2][3].</p> <h2>Word Origin:</h2> <p>The name nitrogen comes from the Greek words *nitron* (nitre) and *genes* (forming), meaning nitre forming. The element was officially named by French chemist Jean-Antoine-Claude Chaptal in 1790[4].</p> <h2>Physical Properties:</h2> <p>Nitrogen is a colorless, odorless, tasteless gas that exists primarily as a diatomic molecule (N₂). It makes up approximately 78% of Earth's atmosphere and has a low boiling point of -195.8°C.</p> <h3>Chemical Properties:</h3> <ul> <li>The nitrogen molecule forms strong triple covalent bonds between its atoms.</li> <li>An essential component for amino acids and proteins due to its role in biological systems.</li> <li>Used extensively in fertilizers because it is crucial for plant growth.</li> <li>Critical for various biological processes including metabolism and DNA synthesis.</li> </ul>",
-      "ElectronicConfiguration":" Atomic number 7, has 2 shells and 7 electrons. Electronic configuration: 1s² 2s² 2p³.",
+      "ElectronicConfiguration":"Atomic number: 7 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p³.",
       "Category": "Non Metal",
       "State": "Gases",
       "ElementImage":"/ElementImages/Nitrogen.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Nitr%C3%B3geno.gif/640px-Nitr%C3%B3geno.gif"
+      "ECGifLink":"/ElementECGif/Nitrogen.gif"
     },
     {
       "Symbol": "O",
@@ -114,11 +114,11 @@
       "Period": 2,
       "Column": 16,
       "Description":"<h2>Discovery:</h2> <p>Oxygen was first isolated by Joseph Priestley in 1774 through the thermal decomposition of mercury(II) oxide (HgO). Priestley conducted this experiment on August 1, 1774, while working at Bowood House in Calne, Wiltshire. Although Carl Wilhelm Scheele had also discovered oxygen around the same time, Priestley was the first to publish his findings[1][3][5].</p> <h2>Word Origin:</h2> <p>The name oxygen comes from the Greek words *oxys* (acid) and *genes* (forming), meaning acid forming. Antoine Lavoisier coined this term in 1777 after understanding its role in forming acids[7].</p> <h2>Physical Properties:</h2> <p>Oxygen is a colorless, odorless, tasteless gas that exists primarily as a diatomic molecule (O₂). It is essential for respiration and makes up approximately 21% of Earth's atmosphere.</p> <h3>Chemical Properties:</h3> <ul> <li>Serves as a strong oxidizing agent.</li> <li>Supports combustion reactions by providing oxygen necessary for burning.</li> <li.Forms oxides with most elements due to its high reactivity.</li> <li>Critical for cellular respiration processes within living organisms.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 8, has 2 shells and 8 electrons. Electronic configuration: 1s² 2s² 2p⁴.",
+      "ElectronicConfiguration":"Atomic number: 8 <br> Number of shells: 2 <br> Electronic configuration: 1s² 2s² 2p⁴.",
       "Category": "Non Metal",
       "State": "Gases",
       "ElementImage":"/ElementImages/Oxygen.jpg",
-      "ECGifLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/O%E2%81%B8.gif/640px-O%E2%81%B8.gif"
+      "ECGifLink":"/ElementECGif/Oxygen.gif"
     },
     {
       "Symbol": "F",
@@ -129,11 +129,11 @@
       "Period": 2,
       "Column": 17,
       "Description":"<h2>Discovery:</h2> <p>Fluorine was first isolated by French chemist Henri Moissan in 1886 through the electrolysis of a solution of potassium hydrogen difluoride (KHF₂) in liquid hydrogen fluoride (HF). This achievement marked a significant milestone after decades of attempts by various chemists to isolate the element.</p> <h2>Word Origin:</h2> <p>The name fluorine originates from the Latin word *fluere*, meaning to flow. The term was coined by French scientist André Ampère in 1812, referring to its presence in fluorspar, which is used as a flux to facilitate smelting and emits light when heated.</p> <h2>Physical Properties:</h2> <p>Fluorine is a pale yellow gas at room temperature and pressure. It is known as the most reactive non-metal due to its high reactivity with other elements. Fluorine is highly toxic and possesses the highest electron affinity among all elements.</p> <h3>Chemical Properties:</h3> <ul> <li>The most electronegative element, capable of forming strong bonds with most other elements.</li> <li>Used extensively in fluoride compounds for various applications, including dental health products like toothpaste.</li> <li>An important component in the pharmaceutical industry due to its ability to enhance drug properties and stability.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 9, has 2 shells and 9 electrons. Electronic configuration: 1s² 2s² 2p⁵.",
+      "ElectronicConfiguration":"Atomic number: 9 <br> Number of shells: 2 Electronic configuration: 1s² 2s² 2p⁵.",
       "Category": "Halogen",
       "State": "Gases",
       "ElementImage":"/ElementImages/Fluorine.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Fluorine.gif"
     },
     {
       "Symbol": "Ne",
@@ -144,7 +144,7 @@
       "Period": 2,
       "Column": 18,
       "Description":"<h2>Discovery:</h2> <p>Neon was discovered by British chemists Sir William Ramsay and Morris Travers in 1898. They isolated it from liquid air by cooling the air until it became a liquid, then warming this liquid to capture the gases as they boiled off. The discovery of neon was part of their broader work on isolating noble gases.</p> <h2>Word Origin:</h2> <p>The name neon comes from the Greek word *neos*, meaning new. This term was chosen by Ramsay and Travers when they named the element in 1898, reflecting its novelty at that time.</p> <h2>Physical Properties:</h2> <p>Neon is a colorless and odorless gas at room temperature but emits an orange-red glow when excited electrically. It has a very low boiling point of -246.08°C and is known for being one of the lightest noble gases after helium.</p> <h3>Chemical Properties:</h3> <ul> <li>A chemically inert element due to its full outer energy level, which makes it non-reactive under normal conditions.</li> <li.Does not naturally form compounds with other elements because of its stable electronic configuration.</li> <li.Widely used in neon signs due to its bright orange-red color when electrically excited.</li> <li.Playing an important role in laser technology, particularly in gas lasers where neon can be combined with other gases like helium for specific applications.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 10, has 2 shells and 10 electrons. Electronic configuration: 1s² 2s² 2p⁶.",
+      "ElectronicConfiguration":"Atomic number: 10 <br> Number of shells: 2 Electronic configuration: 1s² 2s² 2p⁶.",
       "Category": "Noble Gas",
       "State": "Gases",
       "ElementImage":"/ElementImages/Neon.jpg",
@@ -159,11 +159,11 @@
       "Period": 3,
       "Column": 1,
       "Description":"<h2>Discovery:</h2> <p>Sodium was discovered by Sir Humphry Davy in 1807 through the process of electrolysis. Davy isolated sodium from sodium hydroxide (NaOH), also known as caustic soda, by applying an electric current to decompose the compound into its elemental form.</p> <h2>Word Origin:</h2> <p>The name sodium comes from the Latin word *natrium*, which is derived from the Egyptian term 'natron.' This term is related to the English word 'soda,' reflecting its historical connection with natural sources like natron lakes.</p> <h2>Physical Properties:</h2> <p>Sodium is a soft, silvery-white metal that reacts highly with water. It has a low melting point of 97.72°C and serves as an excellent conductor of electricity due to its free electrons.</p> <h3>Chemical Properties:</h3> <ul> <li>Forms strong ionic bonds due to its tendency to readily lose one electron, creating positively charged ions (Na⁺).</li> <li>An essential component for nerve function in biological systems, helping transmit signals across neurons.</li> <li>A key ingredient in common table salt (sodium chloride, NaCl), which is crucial for maintaining proper fluid balance and blood pressure in humans.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 11, has 3 shells and 11 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s¹.",
+      "ElectronicConfiguration":"Atomic number: 11 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Sodium.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Sodium.gif"
     },
     {
       "Symbol": "Mg",
@@ -174,11 +174,11 @@
       "Period": 3,
       "Column": 2,
       "Description":"<h2>Discovery:</h2> <p>Magnesium was first recognized as an element by Scottish chemist Joseph Black in 1755. Black distinguished magnesia (magnesium oxide, MgO) from lime (calcium oxide, CaO), showing that they were distinct substances despite both being derived from similar carbonate rocks[1][4][7]. The pure metal was later isolated by Sir Humphry Davy in 1808 through electrolysis[1][7].</p> <h2>Word Origin:</h2> <p>The name magnesium originates from Magnesia, a district in Eastern Thessaly, Greece. This region is known for its rich magnesium ore deposits[5].</p> <h2>Physical Properties:</h2> <p>Magnesium is a silvery-white metal that is both lightweight and strong. It has a high melting point of approximately 650°C and serves as a good conductor of heat.</p> <h3>Chemical Properties:</h3> <ul> <li>Forms strong ionic bonds due to its ability to readily lose electrons.</li> <li>An essential component for chlorophyll production in plants, playing a crucial role in photosynthesis.</li> <li>Used extensively in the creation of lightweight alloys due to its strength-to-weight ratio.</li> <li>Critical for various biological processes within living organisms, including muscle function and nerve transmission.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 12, has 3 shells and 12 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s².",
+      "ElectronicConfiguration":"Atomic number: 12 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Magnesium.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Magnesium.gif"
     },
     {
       "Symbol": "Al",
@@ -189,11 +189,11 @@
       "Period": 3,
       "Column": 13,
       "Description":"<h2>Discovery:</h2> <p>Aluminum was first isolated by Hans Christian Ørsted in 1825, but it was Sir Humphry Davy who initially attempted to isolate it earlier. Ørsted successfully extracted the metal from alumina (aluminum oxide) using a chemical reduction process.</p> <h2>Word Origin:</h2> <p>The name aluminum comes from the Latin word *alumen*, meaning alum, which is a type of salt used historically for various purposes.</p> <h2>Physical Properties:</h2> <p>Aluminum is a silvery-white metal with low density, approximately one-third that of steel or copper. It is an excellent conductor of both heat and electricity and forms a protective oxide layer when exposed to air, which enhances its corrosion resistance.</p> <h3>Chemical Properties:</h3> <ul> <li.Forms strong bonds with oxygen, leading to the formation of aluminum oxide (Al₂O₃), which protects it from further corrosion.</li> <li.Resistant to corrosion due to this protective oxide layer that forms naturally on its surface.</li> <li.Widely used in packaging (e.g., foil and cans) and construction materials due to its lightweight nature and durability.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 13, has 3 shells and 13 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p¹.",
+      "ElectronicConfiguration":"Atomic number: 13 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p¹.",
       "Category": "Post Transition Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Aluminium.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Aluminium.gif"
     },
     {
       "Symbol": "Si",
@@ -204,11 +204,11 @@
       "Period": 3,
       "Column": 14,
       "Description":"<h2>Discovery:</h2> <p>Silicon was first isolated in its pure form by Swedish chemist Jöns Jacob Berzelius in 1824. Berzelius produced amorphous silicon through a chemical process involving potassium fluorosilicate and potassium, which he then purified to obtain relatively pure silicon powder[1][3][7].</p> <h2>Word Origin:</h2> <p>The name silicon is derived from the Latin word *silex*, meaning flint or hard stone. The element was named by Scottish chemist Thomas Thomson in 1831, adapting the term from Berzelius's earlier suggestion of *silicium*[6][8].</p> <h2>Physical Properties:</h2> <p>Silicon is a dark gray metalloid with a bluish tinge and exhibits semiconductor properties. It has a high melting point of approximately 1414°C and is the second most abundant element in Earth's crust[5][6].</p> <h3>Chemical Properties:</h3> <ul> <li>Silicon forms tetrahedral structures due to its ability to bond with four other atoms, typically oxygen or carbon.</li> <li>An essential component in the semiconductor industry for manufacturing electronic devices like transistors and microchips.</li> <li>Naturally forms silicates, which are compounds found extensively in minerals such as quartz and mica.</li> <li>Critical for solar cells due to its ability to convert sunlight into electrical energy efficiently.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 14, has 3 shells and 14 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p².",
+      "ElectronicConfiguration":"Atomic number: 14 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p².",
       "Category": "Metalloid",
       "State": "Solids",
       "ElementImage":"/ElementImages/Silicon.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Silicon.gif"
     },
     {
       "Symbol": "P",
@@ -219,11 +219,11 @@
       "Period": 3,
       "Column": 15,
       "Description":"<h2>Discovery:</h2> <p>Phosphorus was discovered by Hennig Brand in 1669 while he was attempting to create the philosopher's stone, a mythical substance believed to transform base metals into gold. Brand isolated phosphorus from urine, which he boiled down and then heated until it produced a glowing substance[1][2][3].</p> <h2>Word Origin:</h2> <p>The name phosphorus comes from the Greek word *phosphoros*, meaning light-bearing, due to its ability to glow in the dark. Hennig Brand named the element based on this property when he first discovered it in 1669[5].</p> <h2>Physical Properties:</h2> <p>Phosphorus exists in multiple allotropes, including white, red, and black forms. White phosphorus is particularly notable for its ability to glow in the dark and is highly reactive with air. Phosphorus is essential for life as it plays critical roles in biological systems.</p> <h3>Chemical Properties:</h3> <ul> <li.Forms strong covalent bonds with other elements.</li> <li>A key component of DNA and RNA molecules due to its role as a backbone structure.</li> <li.Widely used in fertilizers because of its importance for plant growth.</li> <li.Playing an important role in energy transfer within cells through ATP (adenosine triphosphate) molecules.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 15, has 3 shells and 15 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p³.",
+      "ElectronicConfiguration":"Atomic number: 15 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p³.",
       "Category": "Non Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Phosphorus.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Phosphorus.gif"
     },
     {
       "Symbol": "S",
@@ -234,11 +234,11 @@
       "Period": 3,
       "Column": 16,
       "Description":"<h2>Discovery:</h2> <p>Sulfur has been known to humans since prehistoric times, as it occurs naturally in its elemental form and was used by ancient civilizations for various purposes, including medicine and religious rituals.</p> <h2>Word Origin:</h2> <p>The name sulfur comes from the Latin word *sulpur*, which refers to this element. The term has been adapted into many languages with slight variations.</p> <h2>Physical Properties:</h2> <p>Sulfur is a yellow crystalline solid that exists in multiple allotropes. It has a relatively low melting point of 115.21°C and is known for its distinctive odor, often compared to the smell of rotten eggs due to hydrogen sulfide gas (H₂S) emissions when it reacts with moisture.</p> <h3>Chemical Properties:</h3> <ul> <li.Forms strong covalent bonds with other elements, particularly in sulfur-sulfur bonds within its allotropes.</li> <li>An essential component for proteins due to its presence in amino acids like methionine and cysteine.</li> <li.Used extensively in the vulcanization process of rubber, where sulfur cross-links polymer chains to enhance durability and elasticity.</li> <li.Playing important roles in various biological processes within living organisms, including metabolic pathways involving sulfur-containing compounds.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 16, has 3 shells and 16 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁴.",
+      "ElectronicConfiguration":"Atomic number: 16 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁴.",
       "Category": "Non Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Sulfur.jpg",
-      "ECGifLink":""
+      "ECGifLink":"/ElementECGif/Sulfur.gif"
     },
     {
       "Symbol": "Cl",
@@ -249,7 +249,7 @@
       "Period": 3,
       "Column": 17,
       "Description":"<h2>Discovery:</h2> <p>Chlorine was first produced by Carl Wilhelm Scheele in 1774 through the reaction of manganese dioxide (MnO₂) with hydrochloric acid (HCl). However, it was Sir Humphry Davy who recognized it as an element and named it in 1810.</p> <h2>Word Origin:</h2> <p>The name chlorine comes from the Greek word *chloros*, meaning pale green, which refers to its color. This term was chosen by Sir Humphry Davy when he officially named the element in 1810.</p> <h2>Physical Properties:</h2> <p>Chlorine is a yellow-green gas at room temperature with a strong, pungent odor. It is highly toxic and denser than air. Chlorine has a melting point of approximately -101°C and boils at -34°C.</p> <h3>Chemical Properties:</h3> <ul> <li>A strong oxidizing agent due to its tendency to readily accept electrons to complete its outer shell.</li> <li.Forms both ionic and covalent bonds with other elements, often resulting in chlorides or organic chlorinated compounds.</li> <li.Widely used in water treatment processes for disinfection purposes due to its ability to kill bacteria and other pathogens.</li> <li.Playing an important role in many industrial processes, including bleaching textiles and manufacturing plastics like PVC (polyvinyl chloride).</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 17, has 3 shells and 17 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁵.",
+      "ElectronicConfiguration":"Atomic number: 17 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁵.",
       "Category": "Halogen",
       "State": "Gases",
       "ElementImage":"/ElementImages/Chlorine.jpg",
@@ -264,7 +264,7 @@
       "Period": 3,
       "Column": 18,
       "Description":"<h2>Discovery:</h2> <p>Argon was discovered by Lord Rayleigh and Sir William Ramsay in 1894. They isolated it from air after removing other gases like oxygen, nitrogen, and carbon dioxide. This discovery marked the first time a noble gas was isolated on Earth.</p> <h2>Word Origin:</h2> <p>The name argon is derived from the Greek word *argos*, meaning inactive or lazy, which reflects its chemical inertness. Although H.G. Madan is mentioned in some contexts, it was primarily Lord Rayleigh and Sir William Ramsay who identified and named this element based on its properties.</p> <h2>Physical Properties:</h2> <p>Argon is a colorless, odorless gas that makes up approximately 0.934% of Earth's atmosphere, making it the third most abundant gas after nitrogen and oxygen. It has a low boiling point of -185.85°C and is heavier than air.</p> <h3>Chemical Properties:</h3> <ul> <li>A chemically inert element due to its full outer energy level, which makes it non-reactive under normal conditions.</li> <li.Widely used in lighting applications such as incandescent bulbs and fluorescent tubes due to its ability to maintain an electric discharge without reacting with other elements.</li> <li.Importantly used in welding processes as an inert shielding gas to protect molten metal from atmospheric gases that could cause oxidation or contamination.</li> <li.Does not form natural compounds with other elements because of its stable electronic configuration.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 18, has 3 shells and 18 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶.",
+      "ElectronicConfiguration":"Atomic number: 18 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶.",
       "Category": "Noble Gas",
       "State": "Gases",
       "ElementImage":"/ElementImages/Argon.jpg",
@@ -279,7 +279,7 @@
       "Period": 4,
       "Column": 1,
       "Description":"<h2>Discovery:</h2> <p>Potassium was discovered by Sir Humphry Davy in 1807 through electrolysis. Davy isolated it from caustic potash (potassium hydroxide, KOH) by applying an electric current to decompose the compound into its elemental form. This marked the first time a metal was isolated using electrolysis.</p> <h2>Word Origin:</h2> <p>The name potassium comes from the English term pot ash, which refers to potassium salts extracted from wood ashes. The Latin equivalent is *kalium*, and this is where its symbol 'K' originates. Although Sir Humphry Davy did not coin the term himself, he is associated with its discovery and naming in 1807.</p> <h2>Physical Properties:</h2> <p>Potassium is a soft, silvery-white metal that reacts highly with water, producing hydrogen gas and releasing heat. It has a low melting point of approximately 63.38°C and serves as an excellent conductor of electricity due to its free electrons.</p> <h3>Chemical Properties:</h3> <ul> <li.Forms strong ionic bonds due to its tendency to readily lose one electron, creating positively charged ions (K⁺).</li> <li>An essential component for nerve function in biological systems, helping transmit signals across neurons.</li> <li.Importantly used in maintaining soil fertility because it supports plant growth by facilitating nutrient uptake.</li> <li.A key element in living cells due to its role in maintaining fluid balance and supporting various cellular processes.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 19, has 4 shells and 19 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹.",
+      "ElectronicConfiguration":"Atomic number: 19 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹.",
       "Category": "Alkali Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Potassium.jpg",
@@ -294,7 +294,7 @@
       "Period": 4,
       "Column": 2,
       "Description":"<h2>Discovery:</h2> <p>Calcium was discovered by Sir Humphry Davy in 1808 through electrolysis. Davy isolated it from lime (calcium oxide, CaO) by applying an electric current to decompose the compound into its elemental form.</p> <h2>Word Origin:</h2> <p>The name calcium comes from the Latin word *calx*, meaning lime, which refers to calcium oxide. Sir Humphry Davy named the element in 1808 when he first isolated it.</p> <h2>Physical Properties:</h2> <p>Calcium is a soft, silvery-white metal that reacts with water to produce hydrogen gas and calcium hydroxide. It is essential for forming bones and teeth in biological systems and is the fifth most abundant element in Earth's crust. Calcium has a melting point of approximately 842°C and boils at about 1484°C[1][5].</p> <h3>Chemical Properties:</h3> <ul> <li.Forms strong ionic bonds due to its tendency to readily lose two electrons, creating positively charged ions (Ca²⁺).</li> <li.Playing a crucial role in bone structure by providing rigidity and support through its incorporation into hydroxyapatite.</li> <li.Widely used in construction materials like cement due to its ability to form stable compounds with other elements.</li> <li.Essential for muscle function as it helps regulate muscle contraction and relaxation processes within living organisms.</li> </ul>",
-      "ElectronicConfiguration":"Atomic number 20, has 4 shells and 20 electrons. Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s².",
+      "ElectronicConfiguration":"Atomic number: 20 <br> Number of shells: 3 Electronic configuration: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s².",
       "Category": "Alkaline Earth Metal",
       "State": "Solids",
       "ElementImage":"/ElementImages/Calcium.jpg",
